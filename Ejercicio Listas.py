@@ -22,3 +22,4 @@ for i in range(num_articulos):
 print("Lista de artículos y precios:")
 for i in range(num_articulos):
     print(tienda[i] + ": $" + str(precio[i]))
+
